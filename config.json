@@ -1,0 +1,17 @@
+{
+    "defaultContentLanguage": "en",
+    "defaultContentLanguageInSubdir": true,
+    "languages": {
+        "en": {
+            "weight": 1,
+            "contentDir": "content/en",
+            "languageName": "EN"
+        },
+
+        "es": {
+            "weight": 0,
+            "contentDir": "content/es",
+            "languageName": "ES"
+        }
+    }
+}
